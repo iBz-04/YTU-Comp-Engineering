@@ -1,6 +1,6 @@
-# Yıldız Technical University Computer Engineering: Lecture Notes & Slides & Projects
+# Yıldız Technical University Computer Engineering Course Work
 
-This is not a official YTU - CE repository. Repository contains
+Repository contains
 
 - Lecture Notes
 - Lecture Materials
