@@ -99,36 +99,6 @@ Everyone is permitted to copy and distribute verbatim or modified copies of this
 | 4x7 | [BLM4580: Introduction Natural Language Processing (Occupational Elective)](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=5972&aid=3) | [Prof. Dr. Banu DİRİ](https://avesis.yildiz.edu.tr/diri)| - |
 | 4x7 | [BLM3590 - Statistical Data Analysis (Occupational Elective)](http://www.bologna.yildiz.edu.tr/index.php?r=course/view&id=7321&aid=3) | [Prof. Dr. Nizamettin AYDIN](https://avesis.yildiz.edu.tr/naydin) | [Lecture Notes](https://github.com/safakkbilici/YTU-CE/blob/master/4x7/BLM3590%20-%20Statistical%20Data%20Analysis/Lecture%20Notes.pdf) |
 
-## Contributing
 
-Special thanks to contributors (A-Z) due to spreading the notes and sources free:
 
-- [Barış YERLİKAYA](https://github.com/abarisyerlikaya)
-- [Batuhan LEL](https://github.com/batuhanlel)
-- [Enes Sadi UYSAL](https://github.com/enesadi)
-- [Kaan KESGİN](https://github.com/kaanksgn)
-- [Osman BAHTİYAR](https://github.com/osmanbahtiyar)
-- [Semih ŞENEL](https://github.com/semihsenel)
-- Yiğit YANDAŞ
-- If you want to contribute, contact safakk.bilici.2112@gmail.com or l1117086@std.yildiz.edu.tr
 
-## Are Those Lecture Notes Still Valid?
-Mostly yes, the curriculum of lectures do not change frequently. Almost all lecture notes belong to me (hand-taken, not like ownership). So they are parallel with my year:
-- 1x1: 2018
-- 1x2: 2019
-- 2x3: 2019
-- 2x4: 2020
-- 3x5: 2020
-- 3x6: 2021
-- 4x7: 2021
-- 4x8: 2022
-
-## Lecturer Up-To-Dateness
-Lecturers change frequently. Please update lecturers by contributing. If you are not familiar with pull-request and git, you can always use my email.
-
-## Status
-- (22 Jan 2021) It was difficult to take meticulous notes in online education...
-- (19 Nov 2021) No, I am not dead yet. I will upload 4x7 as well.
-- (16 Jan 2022) I am dead inside. But I uploaded almost all 4x7. Ready to farewell: 4x8.
-- (27 May 2022) I am going to be graduated in a month, finally. I am planning that I will be maintaining this repository, however, there will be no additional lecture notes anymore. Contributors are only welcome for past exams and homeworks.
-- (3 Aug 2022) Just graduated. I didn't take any notes for 4x8. This is the last status. See you on the other side.
