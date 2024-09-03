@@ -7,7 +7,7 @@ Repository contains
 - Homeworks
 - Solutions
 - Example Questions
-- And other useful informations about department and lecturers...
+- And other useful informations about department and lecturers
 
 All hand-taken materials belong to me or [contributors](https://github.com/safakkbilici/YTU-CE/blob/master/CONTRIBUTORS). Some lecture notes were not hand-taken (LaTeX PDF-DVI or something else). 
 
